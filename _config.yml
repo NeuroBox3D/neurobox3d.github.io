@@ -7,13 +7,14 @@
 
 # Site settings
 title: NeuroBox3D
-email: grein@temple.edu
+email: info@neurobox.eu
 description: "
 	Bringing together numerical mathematics, scientific and 
 	high performance computing and life sciences
 	"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://neurobox.eu" # the base hostname & protocol for your site
+#url: "http://neurobox.eu" # the base hostname & protocol for your site
+url: ""
 twitter_username: neurobox3d
 github_username:  neurobox3d
 
