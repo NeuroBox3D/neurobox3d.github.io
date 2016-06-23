@@ -172,6 +172,26 @@
     background-image: url(../neurobox_background.jpg);
 }
 
+.page-content2 {
+    padding: $spacing-unit 0;
+    background: 
+    linear-gradient(
+      rgba(0, 0, 0, 0.65), 
+      rgba(0, 0, 0, 0.65)
+    ),
+    url(../short-header-bg.jpg) no-repeat;
+    background-size:contain;
+
+    height: 208px;
+    line-height: 208px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 60px;
+
+}
+
+
 .page-heading {
     font-size: 20px;
 }
