@@ -1,6 +1,7 @@
 ---
-layout: empty
-title: GEOMETRIES
+layout: empty2
+title: Geometries
+description: "Geometries for NeuroBox"
 permalink: /geometries/
 ---
-Geometries
+Here you'll find soon the geometries.

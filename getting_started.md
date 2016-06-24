@@ -1,6 +1,7 @@
 ---
-layout: empty
-title: "GETTING STARTED"
+layout: empty2
+title: "Getting started"
+description: "Getting started with NeuroBox"
 permalink: /getting_started/
 ---
-Getting Started with NeuroBox
+Here we'll explain how to get started with NeuroBox.

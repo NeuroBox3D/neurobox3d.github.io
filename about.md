@@ -1,6 +1,7 @@
 ---
-layout: empty
-title: ABOUT
+layout: empty2
+title: About
+description: "About NeuroBox"
 permalink: /about/
 ---
-About NeuroBox
+Here we'll tell more about the NeuroBox project.

@@ -1,6 +1,7 @@
 ---
-layout: empty
-title: PROJECTS
+layout: empty2
+title: Projects
+description: "The Projects"
 permalink: /projects/
 ---
-NeuroBox Projects
+Here we'll illustrate the NeuroBox Projects.

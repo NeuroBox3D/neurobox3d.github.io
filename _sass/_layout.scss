@@ -191,6 +191,33 @@
 
 }
 
+.page-content3 {
+    padding: $spacing-unit 0;
+    background: 
+    linear-gradient(
+      rgba(0, 0, 0, 0.65), 
+      rgba(0, 0, 0, 0.65)
+    ),
+    url(../img/short-header-bg.jpg) no-repeat;
+    background-size:contain;
+
+    height: 220px;
+    line-height: 220px;
+    text-align: center;
+    color: #000000;
+    font-weight: bold;
+    font-size: 60px;
+
+}
+
+.page-content4 {
+   font-size: 16px;
+   line-height: 1;
+   color: #000000;
+}
+
+
+
 
 .page-heading {
     font-size: 20px;
@@ -236,6 +263,8 @@
 
 .post-content {
     margin-bottom: $spacing-unit;
+    font-size: 16px;
+    line-height: 1;
 
     h2 {
         font-size: 32px;
