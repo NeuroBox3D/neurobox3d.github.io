@@ -1,5 +1,5 @@
 ---
-layout: empty2
+layout: default
 title: Geometries
 description: "Geometries for NeuroBox"
 permalink: /geometries/

@@ -1,5 +1,5 @@
 ---
-layout: empty2
+layout: default
 title: "Getting started"
 description: "Getting started with NeuroBox"
 permalink: /getting_started/

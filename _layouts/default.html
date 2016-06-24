@@ -1,18 +1,20 @@
 <!DOCTYPE html>
 <html>
-
+  <!-- navigation -->
   {% include head.html %}
-
   <body>
-
+    <!-- page metadata from files -->
     {% include header.html %}
-
-    <div class="page-content" >
+    <div class="page-content2">
       <div class="wrapper">
-        {{ content }}
+         {{ page.description }}
       </div>
+      </div>
+    <!-- page content from files -->
+    <div class="page-content4">
+        {{ content }}
     </div>
-
   </body>
-
+   <!-- page footer -->
+   {% include footer.html %}
 </html>

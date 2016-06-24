@@ -1,5 +1,5 @@
 ---
-layout: empty2
+layout: default
 title: About
 description: "About NeuroBox"
 permalink: /about/
